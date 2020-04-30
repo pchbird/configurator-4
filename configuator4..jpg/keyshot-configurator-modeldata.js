@@ -4,35 +4,35 @@ model =
         {
             "materials": [
                 {
-                    "checked": true,
-                    "icon": "traditional%20.png",
+                    "icon": "traditional.png",
                     "multimaterials": [
                         "15+11",
                         "20+16",
                         "10+5",
                         "24+21"
                     ],
-                    "name": "traditional "
+                    "name": "Traditional"
                 },
                 {
-                    "icon": "funky.png",
+                    "icon": "tropical%20.png",
                     "multimaterials": [
                         "15+12",
                         "20+17",
                         "10+7",
                         "24+22"
                     ],
-                    "name": "funky"
+                    "name": "Tropical "
                 },
                 {
-                    "icon": "worm.png",
+                    "checked": true,
+                    "icon": "warm.png",
                     "multimaterials": [
                         "15+13",
                         "20+16",
                         "10+6",
                         "24+21"
                     ],
-                    "name": "worm"
+                    "name": "Warm"
                 }
             ],
             "name": "color variations"
